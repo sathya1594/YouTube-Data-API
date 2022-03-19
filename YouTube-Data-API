@@ -1,0 +1,14 @@
+Hi Guys,
+Good day to all,
+
+This repositary of YouTube API is purely educational purposes and how to use it. You can customize this for your used case.
+You can get the following from this.
+1. Number of videos in the YouTube channel,
+2. Tiles of all the video.
+3. Description of all the videos & all also how to add customized comment if there is no descriptions available for a video index.
+4. Duration of all the video.
+5. Urls constructed using Video id.
+6. Storing the data in Excel.
+
+There are many other features api has that can learnt from online resources as per ur needs
+Happy Learning & Happy coding.
